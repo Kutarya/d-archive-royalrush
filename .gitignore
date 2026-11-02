@@ -1,0 +1,6 @@
+.tools/*.zip
+evidence/tmp/
+releases/*.zip
+*.rbxl.lock
+*.rbxlx.lock
+*.autosave

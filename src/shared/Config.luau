@@ -1,0 +1,56 @@
+--!strict
+local Config = {
+    Version = "0.2.0-playtest",
+    MinPlayers = 2, MaxPlayers = 16,
+    Intermission = 20, Intro = 3, Transition = 6, Results = 8,
+    Overtime = 20, Tick = 0.05, WalkSpeed = 16, JumpHeight = 7.2,
+    RespawnDelay = 1, AFKSeconds = 25,
+    StudioSolo = true,
+    Persistence = { Store = "RoyalRush_Player_v1", Autosave = 90, LockSeconds = 240, Attempts = 3, StudioCloud = false },
+    Powers = {
+        Dash = { Name = "Dash", Cooldown = 10, Duration = 0.2, Distance = 12, Color = { 70, 178, 255 }, Description = "Short forward burst. Q / POWER." },
+        DoubleJump = { Name = "Double Jump", Cooldown = 10, Velocity = 42, Color = { 132, 204, 255 }, Description = "One extra boost while airborne." },
+        Shield = { Name = "Shield", Cooldown = 25, Duration = 2, Color = { 116, 243, 231 }, Description = "Block one knockback. Lava and void still eliminate." },
+    },
+    RarityWeights = { Common = 60, Rare = 25, Epic = 10, Legendary = 5 },
+    Events = {
+        LowGravity = { Name = "LOW GRAVITY", Rarity = "Common", Duration = 12, Cost = 1, Modes = { Race = true, Survival = true, RisingDanger = true, Final = true }, Tags = { LowGravity = true }, Excludes = { SuperSpeed = true } },
+        SuperSpeed = { Name = "SUPER SPEED", Rarity = "Common", Duration = 10, Cost = 1, Modes = { Race = true, Survival = true }, Tags = { Speed = true }, Excludes = { LowGravity = true } },
+        VanishingPlatforms = { Name = "VANISHING PLATFORMS", Rarity = "Rare", Duration = 8, Cost = 1, Modes = { Race = true, Survival = true }, Tags = { Vanishing = true }, Excludes = { WorldBreaking = true, FallingTiles = true } },
+        MeteorShower = { Name = "METEOR SHOWER", Rarity = "Epic", Duration = 12, Cost = 2, Modes = { Race = true, Survival = true }, Tags = { Meteors = true }, Excludes = { FallingTiles = true, WorldBreaking = true } },
+        Shockwave = { Name = "SHOCKWAVE", Rarity = "Rare", Duration = 10, Cost = 1, Modes = { Survival = true }, Tags = { Shockwave = true }, Excludes = { MeteorShower = true } },
+        FallingTiles = { Name = "FALLING TILES", Rarity = "Rare", Duration = 12, Cost = 1, Modes = { Race = true, Survival = true }, Tags = { Falling = true }, Excludes = { MeteorShower = true, WorldBreaking = true, VanishingPlatforms = true } },
+        NeonMode = { Name = "NEON MODE", Rarity = "Common", Duration = 14, Cost = 0, Modes = { Race = true, Survival = true, RisingDanger = true, Final = true }, Tags = { Neon = true }, Excludes = {} },
+        WorldBreaking = { Name = "THE WORLD IS BREAKING", Rarity = "Legendary", Duration = 15, Cost = 2, MinPlayers = 4, Modes = { Race = true, Survival = true }, Tags = { Breaking = true }, Excludes = { VanishingPlatforms = true, FallingTiles = true, MeteorShower = true } },
+    },
+    Cosmetics = {
+        CloudTrail = { Name = "Cloud Trail", Kind = "Trail", Price = 75, Color = { 170, 226, 255 }, Rarity = "Common" },
+        RoyalTrail = { Name = "Royal Gold", Kind = "Trail", Price = 150, Color = { 255, 208, 76 }, Rarity = "Rare" },
+        ChaosTrail = { Name = "Chaos Spark", Kind = "Trail", Price = 300, Color = { 186, 115, 255 }, Rarity = "Epic" },
+        MintTrail = { Name = "Mint Runner", Kind = "Trail", Price = 100, Color = { 96, 255, 194 }, Rarity = "Common" },
+        EmberTrail = { Name = "Ember Runner", Kind = "Trail", Price = 200, Color = { 255, 118, 73 }, Rarity = "Rare" },
+        RoyalAura = { Name = "Royal Aura", Kind = "Aura", Price = 400, Color = { 255, 215, 94 }, Rarity = "Epic" },
+        ChaosAura = { Name = "Chaos Aura", Kind = "Aura", Price = 450, Color = { 175, 107, 255 }, Rarity = "Epic" },
+        SkyAura = { Name = "Sky Aura", Kind = "Aura", Price = 250, Color = { 88, 191, 255 }, Rarity = "Rare" },
+        RookieTitle = { Name = "CROWN CHASER", Kind = "Title", Price = 0, Rarity = "Common" },
+        RoyalTitle = { Name = "ROYAL RUNNER", Kind = "Title", Price = 150, Rarity = "Rare" },
+        ChaosTitle = { Name = "CHAOS SURVIVOR", Kind = "Title", Price = 250, Rarity = "Rare" },
+        EpicTitle = { Name = "SKY LEGEND", Kind = "Title", Price = 500, Rarity = "Epic" },
+        GoldenVictory = { Name = "Golden Celebration", Kind = "Victory", Price = 250, Color = { 255, 213, 74 }, Rarity = "Rare" },
+        ChaosVictory = { Name = "Purple Celebration", Kind = "Victory", Price = 350, Color = { 197, 128, 255 }, Rarity = "Epic" },
+    },
+    CosmeticOrder = { "CloudTrail", "MintTrail", "RoyalTrail", "EmberTrail", "ChaosTrail", "SkyAura", "RoyalAura", "ChaosAura", "RoyalTitle", "ChaosTitle", "EpicTitle", "GoldenVictory", "ChaosVictory" },
+    Daily = {
+        { Crowns = 25 }, { Crowns = 35 }, { XP = 75 }, { Crowns = 50 },
+        { Cosmetic = "RoyalTitle" }, { Crowns = 70 }, { Cosmetic = "ChaosTrail" },
+    },
+    Quests = {
+        { Id = "Qualify", Name = "Qualify 3 rounds", Statistic = "Qualifications", Target = 3, XP = 100, Crowns = 35 },
+        { Id = "Power", Name = "Use a Power 8 times", Statistic = "PowerUses", Target = 8, XP = 75, Crowns = 25 },
+        { Id = "Chaos", Name = "Survive 2 Chaos Events", Statistic = "ChaosSurvived", Target = 2, XP = 100, Crowns = 35 },
+    },
+    Settings = { Music = 0.4, SFX = 0.7, ReducedShake = false, ReducedParticles = false, ColorAssist = false, AutoSpectate = true, LowEffects = false },
+    Badges = {}, -- Platform badge IDs are deliberately unconfigured, never fabricated.
+    Audio = { Enabled = true, Custom = {} },
+}
+return Config

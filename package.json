@@ -1,0 +1,7 @@
+{
+  "name": "royal-rush",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Studio-ready offline Royal Rush build",
+  "scripts": { "build": "powershell -NoProfile -ExecutionPolicy Bypass -File scripts/build.ps1", "test": "powershell -NoProfile -ExecutionPolicy Bypass -File scripts/test.ps1" }
+}

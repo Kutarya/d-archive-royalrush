@@ -1,0 +1,106 @@
+{
+  "provenance": "Original algorithmic Royal Rush synthesis, no external recordings",
+  "runtime": "Upload through your Roblox account and configure Config.Audio.Custom to enable custom audio",
+  "assets": [
+    {
+      "key": "LobbyMusic",
+      "file": "LobbyMusic.wav",
+      "seconds": 17.143,
+      "channels": 1,
+      "sampleRate": 24000,
+      "bytes": 822900,
+      "sha256": "d07fdfd139ec618e3dc167151bbf872a711d508da324b67cff45d7747c4fdd56",
+      "assetId": null
+    },
+    {
+      "key": "RoundMusic",
+      "file": "RoundMusic.wav",
+      "seconds": 15.0,
+      "channels": 1,
+      "sampleRate": 24000,
+      "bytes": 720044,
+      "sha256": "b1f888201d66da341e98f0beee9d0746aabff5eb2f3114799edbf7443043af4a",
+      "assetId": null
+    },
+    {
+      "key": "FinalMusic",
+      "file": "FinalMusic.wav",
+      "seconds": 13.913,
+      "channels": 1,
+      "sampleRate": 24000,
+      "bytes": 667870,
+      "sha256": "95076fe31014c7ad8ab32ae5e6a3f3c3f68ca85f8dfcf8fb444d8f1a0ca4e4d2",
+      "assetId": null
+    },
+    {
+      "key": "Click",
+      "file": "Click.wav",
+      "seconds": 0.12,
+      "channels": 1,
+      "sampleRate": 24000,
+      "bytes": 5804,
+      "sha256": "881761a69b9604477a6677ddfb0a55da7bdacb0e5fc4016091fdf42d2007a68f",
+      "assetId": null
+    },
+    {
+      "key": "Power",
+      "file": "Power.wav",
+      "seconds": 0.4,
+      "channels": 1,
+      "sampleRate": 24000,
+      "bytes": 19244,
+      "sha256": "4867aa79c6d38ec2960241400181d2df7e854034283f62d638e37d17e7d0e20f",
+      "assetId": null
+    },
+    {
+      "key": "Warning",
+      "file": "Warning.wav",
+      "seconds": 0.9,
+      "channels": 1,
+      "sampleRate": 24000,
+      "bytes": 43244,
+      "sha256": "4f8edd108ab493a3bd4fbb1c73448505a8eed9e8422fa0b89c539b1ed1963df2",
+      "assetId": null
+    },
+    {
+      "key": "Qualified",
+      "file": "Qualified.wav",
+      "seconds": 0.9,
+      "channels": 1,
+      "sampleRate": 24000,
+      "bytes": 43244,
+      "sha256": "19664c4eeceb190f42884048a0b3406b9887c6ee3f5cb5a8a6c0b41c71cb1c31",
+      "assetId": null
+    },
+    {
+      "key": "Eliminated",
+      "file": "Eliminated.wav",
+      "seconds": 0.8,
+      "channels": 1,
+      "sampleRate": 24000,
+      "bytes": 38444,
+      "sha256": "c1a7014d47094a654875445904c5ea089f6fb93e221fe2ef45c67c61dedc72e8",
+      "assetId": null
+    },
+    {
+      "key": "Victory",
+      "file": "Victory.wav",
+      "seconds": 2.3,
+      "channels": 1,
+      "sampleRate": 24000,
+      "bytes": 110442,
+      "sha256": "2ad0678e4dc0ab96e4a45e9f1f75cb16d5378d2e43613873f6f841cafb61cc0a",
+      "assetId": null
+    },
+    {
+      "key": "Countdown",
+      "file": "Countdown.wav",
+      "seconds": 0.22,
+      "channels": 1,
+      "sampleRate": 24000,
+      "bytes": 10604,
+      "sha256": "1c282aaf8e3a049c3b2d7af15487df35f97eb37a25ce0b659338a0f7fb32cc1f",
+      "assetId": null
+    }
+  ]
+}

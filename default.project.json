@@ -1,0 +1,30 @@
+{
+  "name": "Royal Rush",
+  "tree": {
+    "$className": "DataModel",
+    "ReplicatedStorage": {
+      "$className": "ReplicatedStorage",
+      "RoyalRush": { "$path": "src/shared" }
+    },
+    "ServerScriptService": {
+      "$className": "ServerScriptService",
+      "RoyalRushServer": { "$path": "src/server" }
+    },
+    "StarterPlayer": {
+      "$className": "StarterPlayer",
+      "$properties": { "CharacterWalkSpeed": 16, "CharacterJumpHeight": 7.2, "CharacterUseJumpPower": false },
+      "StarterPlayerScripts": { "$className": "StarterPlayerScripts", "RoyalRushClient": { "$path": "src/client" } }
+    },
+    "ServerStorage": { "$className": "ServerStorage", "RoyalRushMaps": { "$path": "content/generated/Maps.rbxm" } },
+    "Workspace": {
+      "$className": "Workspace",
+      "$properties": { "Gravity": 196.2, "StreamingEnabled": true, "StreamingMinRadius": 128, "StreamingTargetRadius": 512, "FallenPartsDestroyHeight": -500 },
+      "RoyalRushLobby": { "$path": "content/generated/Lobby.rbxm" }
+    },
+    "Lighting": {
+      "$className": "Lighting",
+      "$properties": { "Brightness": 2, "ClockTime": 10, "Ambient": [0.34, 0.39, 0.54], "OutdoorAmbient": [0.6, 0.65, 0.76], "GlobalShadows": true }
+    },
+    "SoundService": { "$className": "SoundService", "$properties": { "RespectFilteringEnabled": true } }
+  }
+}
