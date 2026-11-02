@@ -1,0 +1,1408 @@
+{
+  "root": "D:\\Roblox\\RoyalRush",
+  "date": "2026-11-02",
+  "files": [
+    {
+      "path": ".gitignore",
+      "size": 78,
+      "mtime_ns": 1791496913743966300,
+      "sha256": "74df5100210c4d0d65f62df08ac8e6d87ba80d92087dd460579cd0edc4c137fc",
+      "crc32": "C50559B0"
+    },
+    {
+      "path": ".tools\\licenses\\luau-MIT.txt",
+      "size": 1124,
+      "mtime_ns": 1791500514997203800,
+      "sha256": "1597b423ca8f9c76225b498071f03b2b3609c4960b8dc30e63b230490fc82efd",
+      "crc32": "3ED92781"
+    },
+    {
+      "path": ".tools\\licenses\\lune-MPL-2.0.txt",
+      "size": 16726,
+      "mtime_ns": 1791500514638678900,
+      "sha256": "3f3d9e0024b1921b067d6f7f88deb4a60cbe7a78e76c64e3f1d7fc3b779b9d04",
+      "crc32": "EAA2A441"
+    },
+    {
+      "path": ".tools\\licenses\\rojo-MPL-2.0.txt",
+      "size": 16725,
+      "mtime_ns": 1791500514280458200,
+      "sha256": "86cf9656479f1edb82245b985f4a2cc0d503b945766ebeda4269c60b307699ae",
+      "crc32": "788908A8"
+    },
+    {
+      "path": ".tools\\luau-windows.zip",
+      "size": 3168551,
+      "mtime_ns": 1791496622742472800,
+      "sha256": "be90c3223f3dc26777ef234244c2b1eae16b3c574f1ab7d1446972f72c28cab1",
+      "crc32": "DDC31F48"
+    },
+    {
+      "path": ".tools\\luau\\luau-analyze.exe",
+      "size": 3685888,
+      "mtime_ns": 1790961726000000000,
+      "sha256": "aa4387f45cf3cd8fa1bfe2958060dd74481e1837ddb47e1a7e78faa1aa68f47b",
+      "crc32": "D6E8BF2F"
+    },
+    {
+      "path": ".tools\\luau\\luau-ast.exe",
+      "size": 590848,
+      "mtime_ns": 1790961732000000000,
+      "sha256": "51de24140731659bcda828759b016d57f104b88713b6ae2acd8dc61f8fbdc3b1",
+      "crc32": "E2D53FCD"
+    },
+    {
+      "path": ".tools\\luau\\luau-compile.exe",
+      "size": 1398272,
+      "mtime_ns": 1790961728000000000,
+      "sha256": "4499eb096a28b95e3e7977d322a145f4599857d8078a8bd0c75e7da7937a9273",
+      "crc32": "B44DA20D"
+    },
+    {
+      "path": ".tools\\luau\\luau.exe",
+      "size": 1666048,
+      "mtime_ns": 1790961584000000000,
+      "sha256": "bbf4bec2470efbb722afaa2803b5ffc47fbf9bc84653c807e176f8b5dc3891ec",
+      "crc32": "002CD77F"
+    },
+    {
+      "path": ".tools\\lune-0.10.5-windows-x86_64.zip",
+      "size": 5178086,
+      "mtime_ns": 1791496620091662300,
+      "sha256": "ad0305f5cc6d7ff20996644b40bf7de0de613812f431ca241456e16f9fc89cda",
+      "crc32": "52B966DF"
+    },
+    {
+      "path": ".tools\\lune\\lune.exe",
+      "size": 14080512,
+      "mtime_ns": 1782999132000000000,
+      "sha256": "43ec01e74923e8145e599237d6af573064748c0307716e9b125b12e0969e5057",
+      "crc32": "AC897476"
+    },
+    {
+      "path": ".tools\\roblox-mcp\\MCPStudioPlugin.rbxm",
+      "size": 11648,
+      "mtime_ns": 1791528006463097800,
+      "sha256": "417152a0a6151fb43ac2a7548a63f6a5e5dc94a1d3c6f3ee5bf9f59ba78267bb",
+      "crc32": "039429D2"
+    },
+    {
+      "path": ".tools\\roblox-mcp\\rbx-studio-mcp.exe",
+      "size": 10009016,
+      "mtime_ns": 1791527828681469400,
+      "sha256": "b370228d5135e291ec9c2a3436a8fe018d7b29b0f9718e45d56cfe5be74e0d0b",
+      "crc32": "C2562636"
+    },
+    {
+      "path": ".tools\\roblox-mcp\\source-v0.2.365.zip",
+      "size": 101451,
+      "mtime_ns": 1791527830789539200,
+      "sha256": "1bfd3c5a880fdee05b3cd09d65200a19718b767c62cd81ef8e38186e4468c33d",
+      "crc32": "484F4DD6"
+    },
+    {
+      "path": ".tools\\roblox-mcp\\studio-rust-mcp-server-0.2.365\\.cargo\\config.toml",
+      "size": 77,
+      "mtime_ns": 1771909708000000000,
+      "sha256": "06fb7dcf379aa27ec05104b5ce7e17f06f4d71e552a49cb54d3d1392298ff9c8",
+      "crc32": "E83A9C84"
+    },
+    {
+      "path": ".tools\\roblox-mcp\\studio-rust-mcp-server-0.2.365\\.github\\CONTRIBUTING.md",
+      "size": 555,
+      "mtime_ns": 1771909708000000000,
+      "sha256": "bab524b53258fc55b50d2776a587329e2927d89dd15e0b3ab9d7fb3bca372a9b",
+      "crc32": "402AB6D2"
+    },
+    {
+      "path": ".tools\\roblox-mcp\\studio-rust-mcp-server-0.2.365\\.github\\PULL_REQUEST_TEMPLATE.md",
+      "size": 1604,
+      "mtime_ns": 1771909708000000000,
+      "sha256": "517fb8f846b241d171baf295126c2b2ca54684fbe93ae19d9c108957d8ec2e4d",
+      "crc32": "B275C99B"
+    },
+    {
+      "path": ".tools\\roblox-mcp\\studio-rust-mcp-server-0.2.365\\.github\\workflows\\build.yml",
+      "size": 3946,
+      "mtime_ns": 1771909708000000000,
+      "sha256": "7663b6630c9b2342e2a227f39604db817d30eeb7c9a7c646c70b9d120c836b1d",
+      "crc32": "20D9A482"
+    },
+    {
+      "path": ".tools\\roblox-mcp\\studio-rust-mcp-server-0.2.365\\.github\\workflows\\checks.yml",
+      "size": 778,
+      "mtime_ns": 1771909708000000000,
+      "sha256": "61ad81b56b54015b7dbe6b42255928667794deca688bed944643935c5920e6f1",
+      "crc32": "EF6EA845"
+    },
+    {
+      "path": ".tools\\roblox-mcp\\studio-rust-mcp-server-0.2.365\\.github\\workflows\\security-scan.yml",
+      "size": 436,
+      "mtime_ns": 1771909708000000000,
+      "sha256": "1e2cc2d8c9a2c3f5b3f72e3bebe39f5442f1964facb85149f0c496a496e5f0d2",
+      "crc32": "0B0C4B8E"
+    },
+    {
+      "path": ".tools\\roblox-mcp\\studio-rust-mcp-server-0.2.365\\.gitignore",
+      "size": 45,
+      "mtime_ns": 1771909708000000000,
+      "sha256": "f59329af3d95c6b2b386c8b99f52b47e73501f54f2f9fa0263d869a9794683e4",
+      "crc32": "36C4F9D4"
+    },
+    {
+      "path": ".tools\\roblox-mcp\\studio-rust-mcp-server-0.2.365\\CODEOWNERS",
+      "size": 29,
+      "mtime_ns": 1771909708000000000,
+      "sha256": "88cb6fc6c6bc64740d838887f627b2d94d4dd9e66a1d8f0b18713ba95738b3ef",
+      "crc32": "B0502424"
+    },
+    {
+      "path": ".tools\\roblox-mcp\\studio-rust-mcp-server-0.2.365\\Cargo.lock",
+      "size": 112884,
+      "mtime_ns": 1771909708000000000,
+      "sha256": "25564d97ad826318aebe3dffe0197c1651a0e962353760d2f25a5075792d5453",
+      "crc32": "F6B9DE78"
+    },
+    {
+      "path": ".tools\\roblox-mcp\\studio-rust-mcp-server-0.2.365\\Cargo.toml",
+      "size": 954,
+      "mtime_ns": 1771909708000000000,
+      "sha256": "0effc1ecdc40b915eff79edd7b561b9c109229c04c48358115410cd7c46163b8",
+      "crc32": "4544DE7D"
+    },
+    {
+      "path": ".tools\\roblox-mcp\\studio-rust-mcp-server-0.2.365\\LICENSE",
+      "size": 1071,
+      "mtime_ns": 1771909708000000000,
+      "sha256": "d2867c1533a6bb5f23b65213515cb42a788564e95d4a7bf085220309fbf10d76",
+      "crc32": "AF42C41A"
+    },
+    {
+      "path": ".tools\\roblox-mcp\\studio-rust-mcp-server-0.2.365\\MCP-Server.png",
+      "size": 25763,
+      "mtime_ns": 1771909708000000000,
+      "sha256": "c8d7ad17f97e9bfda94b4f4a49de331aea92516b4a20d3d68aa976a896c10b44",
+      "crc32": "3082896A"
+    },
+    {
+      "path": ".tools\\roblox-mcp\\studio-rust-mcp-server-0.2.365\\README.md",
+      "size": 5925,
+      "mtime_ns": 1771909708000000000,
+      "sha256": "6eb26f7f3d87f708f09f48925ad7005cfb1a932f9524baec6e265032cb99d3d9",
+      "crc32": "0AC6E063"
+    },
+    {
+      "path": ".tools\\roblox-mcp\\studio-rust-mcp-server-0.2.365\\build.rs",
+      "size": 680,
+      "mtime_ns": 1771909708000000000,
+      "sha256": "79885934d9c196ef65740a2dcc3b2ebb0dce783479eb0f14852051447a11aea0",
+      "crc32": "EA20D3D7"
+    },
+    {
+      "path": ".tools\\roblox-mcp\\studio-rust-mcp-server-0.2.365\\plugin\\.gitignore",
+      "size": 47,
+      "mtime_ns": 1771909708000000000,
+      "sha256": "b897024d117a160cf9cf165cb816b7a5e10671bc394a8d17a811c5d6a510a124",
+      "crc32": "FEF121B3"
+    },
+    {
+      "path": ".tools\\roblox-mcp\\studio-rust-mcp-server-0.2.365\\plugin\\.luaurc",
+      "size": 34,
+      "mtime_ns": 1771909708000000000,
+      "sha256": "8c602baa52c6de2d6562631bfcd34391c47fa94bd805eab632173699833261df",
+      "crc32": "E987CD6B"
+    },
+    {
+      "path": ".tools\\roblox-mcp\\studio-rust-mcp-server-0.2.365\\plugin\\.vscode\\extensions.json",
+      "size": 113,
+      "mtime_ns": 1771909708000000000,
+      "sha256": "4e22fe461d199cb7cce30d90a2dcf8ea443d10d7d6d2867e05fe37425f27af09",
+      "crc32": "D179F901"
+    },
+    {
+      "path": ".tools\\roblox-mcp\\studio-rust-mcp-server-0.2.365\\plugin\\.vscode\\settings.json",
+      "size": 286,
+      "mtime_ns": 1771909708000000000,
+      "sha256": "1c54cdde37868e70becbf52c98f76f27dc09664815246a8929aed941a76c5567",
+      "crc32": "2440B936"
+    },
+    {
+      "path": ".tools\\roblox-mcp\\studio-rust-mcp-server-0.2.365\\plugin\\README.md",
+      "size": 161,
+      "mtime_ns": 1771909708000000000,
+      "sha256": "1fcbf337928fd0b3a570caa5e89df92b98196b12a8c537d8b5806669b79c10c8",
+      "crc32": "6988EC1F"
+    },
+    {
+      "path": ".tools\\roblox-mcp\\studio-rust-mcp-server-0.2.365\\plugin\\default.project.json",
+      "size": 68,
+      "mtime_ns": 1771909708000000000,
+      "sha256": "2a8eb74cb2a317538022969f8b169cc88a406c076a55e99a876a6afbd44120ce",
+      "crc32": "691B3E21"
+    },
+    {
+      "path": ".tools\\roblox-mcp\\studio-rust-mcp-server-0.2.365\\plugin\\foreman.toml",
+      "size": 63,
+      "mtime_ns": 1771909708000000000,
+      "sha256": "bf7fa4681bb85d56e8f90e8c41c49268b2a8f2ce17476cd340d7b8ff9932638b",
+      "crc32": "923B5841"
+    },
+    {
+      "path": ".tools\\roblox-mcp\\studio-rust-mcp-server-0.2.365\\plugin\\selene.toml",
+      "size": 15,
+      "mtime_ns": 1771909708000000000,
+      "sha256": "6c2077e5f51817ac9df8cdfaabb3f7b59204e1b09b72259596cd213686945ae8",
+      "crc32": "115BA4CD"
+    },
+    {
+      "path": ".tools\\roblox-mcp\\studio-rust-mcp-server-0.2.365\\plugin\\src\\Main.server.luau",
+      "size": 4055,
+      "mtime_ns": 1771909708000000000,
+      "sha256": "586700ebc7ff94e4fc7d53b7374a042793a8431df5909c9193ded93029142c0f",
+      "crc32": "A04267AF"
+    },
+    {
+      "path": ".tools\\roblox-mcp\\studio-rust-mcp-server-0.2.365\\plugin\\src\\MockWebSocketService.luau",
+      "size": 4178,
+      "mtime_ns": 1771909708000000000,
+      "sha256": "be485023c7c62e83702d17a0a97ebfa3c55dda648e799a68e711423878ce65ef",
+      "crc32": "2625B025"
+    },
+    {
+      "path": ".tools\\roblox-mcp\\studio-rust-mcp-server-0.2.365\\plugin\\src\\Tools\\GetConsoleOutput.luau",
+      "size": 320,
+      "mtime_ns": 1771909708000000000,
+      "sha256": "bbd519bc006cf24bd378416ecf90fb1c47f10b11e87ea7c7429deb7264d79542",
+      "crc32": "276E123D"
+    },
+    {
+      "path": ".tools\\roblox-mcp\\studio-rust-mcp-server-0.2.365\\plugin\\src\\Tools\\GetStudioMode.luau",
+      "size": 310,
+      "mtime_ns": 1771909708000000000,
+      "sha256": "414787d62281b823df93b681d38b3213f6c280dc3e1d4895ca799488a94a9c38",
+      "crc32": "1E13C51B"
+    },
+    {
+      "path": ".tools\\roblox-mcp\\studio-rust-mcp-server-0.2.365\\plugin\\src\\Tools\\InsertModel.luau",
+      "size": 3110,
+      "mtime_ns": 1771909708000000000,
+      "sha256": "d70636f68a8587e51b9859d742cd731aff9f092c0c9c041c06f163e36347df9d",
+      "crc32": "F4FFC70A"
+    },
+    {
+      "path": ".tools\\roblox-mcp\\studio-rust-mcp-server-0.2.365\\plugin\\src\\Tools\\RunCode.luau",
+      "size": 2943,
+      "mtime_ns": 1771909708000000000,
+      "sha256": "c03c9dac35287d97ddbc906edea8010735ece422cffc191f26f720497d39f102",
+      "crc32": "E4E26C1D"
+    },
+    {
+      "path": ".tools\\roblox-mcp\\studio-rust-mcp-server-0.2.365\\plugin\\src\\Tools\\RunScriptInPlayMode.luau",
+      "size": 3896,
+      "mtime_ns": 1771909708000000000,
+      "sha256": "04211df4ab4014d0add58c26b8e05a749a42f8e1d565afc6b4f981e8b68351f7",
+      "crc32": "124B19DC"
+    },
+    {
+      "path": ".tools\\roblox-mcp\\studio-rust-mcp-server-0.2.365\\plugin\\src\\Tools\\StartStopPlay.luau",
+      "size": 2506,
+      "mtime_ns": 1771909708000000000,
+      "sha256": "d126881d39dcca88010849730707ea61536d9d7061b729289f3cc66185a7327a",
+      "crc32": "AC317C34"
+    },
+    {
+      "path": ".tools\\roblox-mcp\\studio-rust-mcp-server-0.2.365\\plugin\\src\\Types.luau",
+      "size": 604,
+      "mtime_ns": 1771909708000000000,
+      "sha256": "f19f94e39fc363cda8c1d13b59266f4134eece9b1ae6f395b0a2d78186cfc1f8",
+      "crc32": "5737D95A"
+    },
+    {
+      "path": ".tools\\roblox-mcp\\studio-rust-mcp-server-0.2.365\\plugin\\src\\Utils\\ConsoleOutput.luau",
+      "size": 594,
+      "mtime_ns": 1771909708000000000,
+      "sha256": "63e90783a5f4dc2ff52860575706154e88ebb1979562c1496e5ed4a6f17fc011",
+      "crc32": "13BCE278"
+    },
+    {
+      "path": ".tools\\roblox-mcp\\studio-rust-mcp-server-0.2.365\\plugin\\src\\Utils\\DataModelType.luau",
+      "size": 409,
+      "mtime_ns": 1771909708000000000,
+      "sha256": "2a1ac44ae986eb81f9cd3b0bd8e7377409c8901fee545135a7998562902f4e37",
+      "crc32": "CF06A301"
+    },
+    {
+      "path": ".tools\\roblox-mcp\\studio-rust-mcp-server-0.2.365\\plugin\\src\\Utils\\GameStopUtil.luau",
+      "size": 689,
+      "mtime_ns": 1771909708000000000,
+      "sha256": "8edf25815fad804a5831b30773273dde693a6f956046d5809cb79254a045f446",
+      "crc32": "21C43EC7"
+    },
+    {
+      "path": ".tools\\roblox-mcp\\studio-rust-mcp-server-0.2.365\\plugin\\src\\Utils\\GlobalVariables.luau",
+      "size": 239,
+      "mtime_ns": 1771909708000000000,
+      "sha256": "8db965e2c0590e1f656617d13067e74e66c6b5ea04b52fd2d962f4f9e419a21a",
+      "crc32": "63ED2CAC"
+    },
+    {
+      "path": ".tools\\roblox-mcp\\studio-rust-mcp-server-0.2.365\\plugin\\src\\Utils\\PluginUtils.luau",
+      "size": 367,
+      "mtime_ns": 1771909708000000000,
+      "sha256": "b30dea23ae2ae890a4794df435e4b4f3a44d157caed4de4730a10f2a495021d0",
+      "crc32": "8D880D02"
+    },
+    {
+      "path": ".tools\\roblox-mcp\\studio-rust-mcp-server-0.2.365\\plugin\\src\\Utils\\ToolDispatcher.luau",
+      "size": 764,
+      "mtime_ns": 1771909708000000000,
+      "sha256": "4534101e20d335416e7d3cc5bb3cd2d7f8cb532b257abd343f1a42a1d61ea106",
+      "crc32": "A749B3A7"
+    },
+    {
+      "path": ".tools\\roblox-mcp\\studio-rust-mcp-server-0.2.365\\plugin\\stylua.toml",
+      "size": 31,
+      "mtime_ns": 1771909708000000000,
+      "sha256": "3936a1e2bc7157fef9c4c33a23f48a223302d965fe7c0e75cf5a15ffde264fdf",
+      "crc32": "89183710"
+    },
+    {
+      "path": ".tools\\roblox-mcp\\studio-rust-mcp-server-0.2.365\\src\\error.rs",
+      "size": 922,
+      "mtime_ns": 1771909708000000000,
+      "sha256": "3519f6e7dc043583c4ec35f9d99f200c4f5b67533791e4c2acf27948bd5d802a",
+      "crc32": "B0ED0830"
+    },
+    {
+      "path": ".tools\\roblox-mcp\\studio-rust-mcp-server-0.2.365\\src\\install.rs",
+      "size": 8966,
+      "mtime_ns": 1771909708000000000,
+      "sha256": "195ca8adf475b8075237367a697554dcc068aa073a3004a55db0192baa728589",
+      "crc32": "113E5FD6"
+    },
+    {
+      "path": ".tools\\roblox-mcp\\studio-rust-mcp-server-0.2.365\\src\\main.rs",
+      "size": 2572,
+      "mtime_ns": 1771909708000000000,
+      "sha256": "a3603d07fedf2c5f8edbb77093d242428ab43a42e99231c932a0f5e3bca8199c",
+      "crc32": "F2046B43"
+    },
+    {
+      "path": ".tools\\roblox-mcp\\studio-rust-mcp-server-0.2.365\\src\\rbx_studio_server.rs",
+      "size": 12307,
+      "mtime_ns": 1771909708000000000,
+      "sha256": "65417ff25782903d57263a0f0e5f023fb0bd976852b530b0ee4d0e8b49df7425",
+      "crc32": "1B52C2CE"
+    },
+    {
+      "path": ".tools\\roblox-mcp\\studio-rust-mcp-server-0.2.365\\util\\App.entitlements",
+      "size": 241,
+      "mtime_ns": 1771909708000000000,
+      "sha256": "99daef167cdc678891a0b49601b6a34a0fae7240c2aa8bd44a753edc131c7d6d",
+      "crc32": "8B393E61"
+    },
+    {
+      "path": ".tools\\roblox-mcp\\studio-rust-mcp-server-0.2.365\\util\\Certificates.p12",
+      "size": 11440,
+      "mtime_ns": 1771909708000000000,
+      "sha256": "1367e1425860e8448281702eeaa9c66656aedd103e5b78dda5c2c3a73b5b0eb2",
+      "crc32": "CF352F8F"
+    },
+    {
+      "path": ".tools\\roblox-mcp\\studio-rust-mcp-server-0.2.365\\util\\config.windows.json.in",
+      "size": 519,
+      "mtime_ns": 1771909708000000000,
+      "sha256": "b7d0fe0459eca5929e113ccb5813c96e9587b9820d880a623132294f13f13a45",
+      "crc32": "611A8719"
+    },
+    {
+      "path": ".tools\\roblox-mcp\\studio-rust-mcp-server-0.2.365\\util\\sign.macos.sh",
+      "size": 1479,
+      "mtime_ns": 1771909708000000000,
+      "sha256": "07de75654102b2ce09b8fdd2edd5f78ed9cb5c3fdc4d565542733d3a0a415c57",
+      "crc32": "7986AE11"
+    },
+    {
+      "path": ".tools\\roblox-mcp\\studio-rust-mcp-server-0.2.365\\util\\sign.windows.ps1",
+      "size": 727,
+      "mtime_ns": 1771909708000000000,
+      "sha256": "6d12b678c41d18acb44bb7253b9d672af37de0bb71056024a9ee23839751bf0a",
+      "crc32": "CBDC7A75"
+    },
+    {
+      "path": ".tools\\rojo-7.7.1-windows-x86_64.zip",
+      "size": 4572329,
+      "mtime_ns": 1791496616058516000,
+      "sha256": "d4dfa3493a1613a43fc87312d6dac660d7c8bf38e6a99aa5dcd0d26154ba0b82",
+      "crc32": "060F2825"
+    },
+    {
+      "path": ".tools\\rojo\\rojo.exe",
+      "size": 15244288,
+      "mtime_ns": 1790911016000000000,
+      "sha256": "e73e956676b8b27ff43f2c5d80e040121e49c2f9e8cc69fd65123799473cf6d3",
+      "crc32": "C2E517E6"
+    },
+    {
+      "path": ".tools\\toolchain.json",
+      "size": 1095,
+      "mtime_ns": 1791496622813510700,
+      "sha256": "5f2dae4d93584d11b2ac401ca23a25bbb855fe0c3a01e62992dcd8cb9951d96f",
+      "crc32": "686D92DB"
+    },
+    {
+      "path": "AC-STUDIO.cmd",
+      "size": 111,
+      "mtime_ns": 1791501108293493800,
+      "sha256": "e143797d39db99fbda3c47dd7bbda16405f5dbf77bd665afa574697d05da9920",
+      "crc32": "3E5BD8EF"
+    },
+    {
+      "path": "AGENTS.md",
+      "size": 967,
+      "mtime_ns": 1791496578559601800,
+      "sha256": "e7caf3658fefc2edb814cfa7b59e684571eab31295b529f0e63bc4b40a3a73ce",
+      "crc32": "8AFD69FE"
+    },
+    {
+      "path": "BUILD.cmd",
+      "size": 112,
+      "mtime_ns": 1791501108293493800,
+      "sha256": "f8f45edef53bb191054bfc91f19051ba52e29a8a39cef3e941153aabab055c8c",
+      "crc32": "06662365"
+    },
+    {
+      "path": "README.md",
+      "size": 5417,
+      "mtime_ns": 1791526991529197100,
+      "sha256": "2f2d084a92eb45799d0e1f44a0aef7e81ff7ef8bd9e23b40141ab150bd1a30b8",
+      "crc32": "A76A7983"
+    },
+    {
+      "path": "RoyalRush.rbxl",
+      "size": 74421,
+      "mtime_ns": 1791529296146383200,
+      "sha256": "aed2a07040de191ca6b2a5786c4be08aa1b15c8f3ece4d2b69aaa2dea13074ff",
+      "crc32": "FFCD9914"
+    },
+    {
+      "path": "RoyalRush.rbxlx",
+      "size": 1137406,
+      "mtime_ns": 1791529296210358300,
+      "sha256": "7911b93677fd5d2abb446eb21b6fa3c2fb278491a1ba323640e5e55f556f0e80",
+      "crc32": "7A787F07"
+    },
+    {
+      "path": "SES-KURULUMU.md",
+      "size": 1764,
+      "mtime_ns": 1791501278951865300,
+      "sha256": "fa40cb42e4eabe18ac84ebdb21af415ccc260b2015967f00b632eaca59b31693",
+      "crc32": "187257A8"
+    },
+    {
+      "path": "TEST.cmd",
+      "size": 111,
+      "mtime_ns": 1791501108293493800,
+      "sha256": "78f48db074d141bdaddb82fee369db2d9879e42646dec91613f25cc9609d5e73",
+      "crc32": "0B0FE7B0"
+    },
+    {
+      "path": "content\\audio\\Click.wav",
+      "size": 5804,
+      "mtime_ns": 1791500513632078300,
+      "sha256": "881761a69b9604477a6677ddfb0a55da7bdacb0e5fc4016091fdf42d2007a68f",
+      "crc32": "7E8C5225"
+    },
+    {
+      "path": "content\\audio\\Countdown.wav",
+      "size": 10604,
+      "mtime_ns": 1791500513730599000,
+      "sha256": "1c282aaf8e3a049c3b2d7af15487df35f97eb37a25ce0b659338a0f7fb32cc1f",
+      "crc32": "21351113"
+    },
+    {
+      "path": "content\\audio\\Eliminated.wav",
+      "size": 38444,
+      "mtime_ns": 1791500513692722000,
+      "sha256": "c1a7014d47094a654875445904c5ea089f6fb93e221fe2ef45c67c61dedc72e8",
+      "crc32": "6C3E1977"
+    },
+    {
+      "path": "content\\audio\\FinalMusic.wav",
+      "size": 667870,
+      "mtime_ns": 1791500513616491400,
+      "sha256": "95076fe31014c7ad8ab32ae5e6a3f3c3f68ca85f8dfcf8fb444d8f1a0ca4e4d2",
+      "crc32": "0F7C6D3B"
+    },
+    {
+      "path": "content\\audio\\LobbyMusic.wav",
+      "size": 822900,
+      "mtime_ns": 1791500513415890500,
+      "sha256": "d07fdfd139ec618e3dc167151bbf872a711d508da324b67cff45d7747c4fdd56",
+      "crc32": "13E81630"
+    },
+    {
+      "path": "content\\audio\\Power.wav",
+      "size": 19244,
+      "mtime_ns": 1791500513648019500,
+      "sha256": "4867aa79c6d38ec2960241400181d2df7e854034283f62d638e37d17e7d0e20f",
+      "crc32": "3308ACEF"
+    },
+    {
+      "path": "content\\audio\\Qualified.wav",
+      "size": 43244,
+      "mtime_ns": 1791500513669445000,
+      "sha256": "19664c4eeceb190f42884048a0b3406b9887c6ee3f5cb5a8a6c0b41c71cb1c31",
+      "crc32": "769B1475"
+    },
+    {
+      "path": "content\\audio\\RoundMusic.wav",
+      "size": 720044,
+      "mtime_ns": 1791500513520702800,
+      "sha256": "b1f888201d66da341e98f0beee9d0746aabff5eb2f3114799edbf7443043af4a",
+      "crc32": "554F952E"
+    },
+    {
+      "path": "content\\audio\\Victory.wav",
+      "size": 110442,
+      "mtime_ns": 1791500513716708600,
+      "sha256": "2ad0678e4dc0ab96e4a45e9f1f75cb16d5378d2e43613873f6f841cafb61cc0a",
+      "crc32": "9EAFD98D"
+    },
+    {
+      "path": "content\\audio\\Warning.wav",
+      "size": 43244,
+      "mtime_ns": 1791500513653332100,
+      "sha256": "4f8edd108ab493a3bd4fbb1c73448505a8eed9e8422fa0b89c539b1ed1963df2",
+      "crc32": "F2469688"
+    },
+    {
+      "path": "content\\audio\\manifest.json",
+      "size": 2996,
+      "mtime_ns": 1791500513747857700,
+      "sha256": "441f5d4488005d33045a312c0e78c91ef956e419dd05212170df33124311b3ad",
+      "crc32": "1A849409"
+    },
+    {
+      "path": "content\\generated\\Lobby.rbxm",
+      "size": 4575,
+      "mtime_ns": 1791529296081087500,
+      "sha256": "7a8e545cc8a56388de312f0cdc7d39df30c3bfdd0ac598d3808ce88e39591704",
+      "crc32": "3A7A1AB6"
+    },
+    {
+      "path": "content\\generated\\Maps.rbxm",
+      "size": 12892,
+      "mtime_ns": 1791529296080089300,
+      "sha256": "11f1de0bb3c10daebe093c2891cac4264b46238291bd0b00618e0b42c109eca6",
+      "crc32": "AFFCD7B3"
+    },
+    {
+      "path": "default.project.json",
+      "size": 1335,
+      "mtime_ns": 1791496913743966300,
+      "sha256": "9b385059e275aabbb011de88ca8e33fe4996735536f338d744e4d684c92e0cc1",
+      "crc32": "9ABF9231"
+    },
+    {
+      "path": "docs\\ARAC-KAYNAKLARI.md",
+      "size": 900,
+      "mtime_ns": 1791501278951865300,
+      "sha256": "cf8cbac321e4686fc4773982a03571cfd3a08fdebc9294cdf700494788588a82",
+      "crc32": "73078305"
+    },
+    {
+      "path": "docs\\CALISMA-GUNLUGU.md",
+      "size": 10083,
+      "mtime_ns": 1793627332422304000,
+      "sha256": "283a77124e0e6b1036e964a477ea309455c21bd9831f7db438fa8e2e08e11358",
+      "crc32": "4FFDBA43"
+    },
+    {
+      "path": "docs\\GELISTIRME-PLANI.md",
+      "size": 22507,
+      "mtime_ns": 1791501278959431900,
+      "sha256": "2d286ec93ef829c49965c39744f8cf51220e136b7a54526469f1a6bbde246af9",
+      "crc32": "0BA840E4"
+    },
+    {
+      "path": "docs\\HATA-DUZELTME-PLANI.md",
+      "size": 2992,
+      "mtime_ns": 1791528312649125800,
+      "sha256": "1fe2d0751c017b62bac68722a70d56c9b167a740be93eb1c8b569132f4cba6bc",
+      "crc32": "CBEECE75"
+    },
+    {
+      "path": "docs\\ROYAL-RUSH-TASARIM.md",
+      "size": 37606,
+      "mtime_ns": 1791501278959431900,
+      "sha256": "b25f2a41e544a86819c1fb6464b32c92430d0ed9abc07b3a960cce2c49147b6b",
+      "crc32": "67F0E4D9"
+    },
+    {
+      "path": "docs\\STUDIO-TEST-KONTROL.md",
+      "size": 4916,
+      "mtime_ns": 1791526991531704800,
+      "sha256": "c47d5014ad59abc18183822e71df522436f6cd8f9b291f8a54bc1a8c17c0bfed",
+      "crc32": "843F5D64"
+    },
+    {
+      "path": "docs\\UYGULAMA-DURUMU.md",
+      "size": 5983,
+      "mtime_ns": 1791526991530518800,
+      "sha256": "99343a28d3d997671770324caab120a501b4c5cdc116ba23b70e973afb677e06",
+      "crc32": "3BCE6FA5"
+    },
+    {
+      "path": "evidence\\HUD-audit.rbxm",
+      "size": 5018,
+      "mtime_ns": 1791529304446042500,
+      "sha256": "358434de5d5311eedd70154f991beb581185b4d11f221494e2d2e4514a5ee557",
+      "crc32": "380B6926"
+    },
+    {
+      "path": "evidence\\build-manifest.json",
+      "size": 5366,
+      "mtime_ns": 1791529304624387200,
+      "sha256": "07637cce7d5bad9bc53f626b43e1c5c343aac34e32711b5050881ed8e4ee88a6",
+      "crc32": "0259CDB6"
+    },
+    {
+      "path": "evidence\\build.log",
+      "size": 1086,
+      "mtime_ns": 1791529304628896300,
+      "sha256": "570d9e478367824504aaca7a555e7027294bd9f414eef1f1bc8ebb3af8e7ed07",
+      "crc32": "78CE78AE"
+    },
+    {
+      "path": "evidence\\core-tests.json",
+      "size": 6074,
+      "mtime_ns": 1791529296428188300,
+      "sha256": "fba11adab856de496771601a5c91e12d8a6b1b05638734abaa9ba4394f498c7f",
+      "crc32": "D28DA237"
+    },
+    {
+      "path": "evidence\\data-service-tests.json",
+      "size": 1136,
+      "mtime_ns": 1791529304168333400,
+      "sha256": "1f8e10af7f808fac2755879c85ecc2af5f8d95074cefc490d65171a3fa2e2214",
+      "crc32": "40FC188D"
+    },
+    {
+      "path": "evidence\\map-generation.json",
+      "size": 1837,
+      "mtime_ns": 1791529296081087500,
+      "sha256": "e66e94e95d9ea5ca669f69ab56d0e9219746bb85cef0fd7c054d68496ab5548f",
+      "crc32": "E3B65566"
+    },
+    {
+      "path": "evidence\\mcp-client-errors.log",
+      "size": 0,
+      "mtime_ns": 1791528070756261300,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "crc32": "00000000"
+    },
+    {
+      "path": "evidence\\mcp-client.log",
+      "size": 63,
+      "mtime_ns": 1791528072087137900,
+      "sha256": "f39251301abdb1a984c579a735469ecb4d907010f6ae1daca726cc7b0f6efa4c",
+      "crc32": "632809DF"
+    },
+    {
+      "path": "evidence\\mcp-server.log",
+      "size": 0,
+      "mtime_ns": 1791528071279471500,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "crc32": "00000000"
+    },
+    {
+      "path": "evidence\\mcp-tool-discovery.json",
+      "size": 5334,
+      "mtime_ns": 1791528072072110200,
+      "sha256": "c4f2dca085c233d833086794b8956b01fb28ca86dd764f2d5f505d51cf9ec7b3",
+      "crc32": "8146EC36"
+    },
+    {
+      "path": "evidence\\place-audit.json",
+      "size": 21953,
+      "mtime_ns": 1791529304449042100,
+      "sha256": "3703910d1f445823cd8fba94e3074a514dc2285324bcb1b783099f477615a343",
+      "crc32": "6CB66C09"
+    },
+    {
+      "path": "evidence\\service-contracts.json",
+      "size": 802,
+      "mtime_ns": 1791529304235305000,
+      "sha256": "7a8746d6a6dc4b136e19dae0f581e1096d9bd2bc3dfe8cf91ad0fe5848b51650",
+      "crc32": "399B7A3F"
+    },
+    {
+      "path": "evidence\\studio-restoration-errors.log",
+      "size": 0,
+      "mtime_ns": 1791529205958023700,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "crc32": "00000000"
+    },
+    {
+      "path": "evidence\\studio-restoration.log",
+      "size": 2294,
+      "mtime_ns": 1791529240839851700,
+      "sha256": "921460fbdd636e02e1f8fef14c380f361eccbdd34135ff967de97ef4bc5c44b6",
+      "crc32": "32135D5D"
+    },
+    {
+      "path": "evidence\\studio-smoke-2026-10-09.md",
+      "size": 3798,
+      "mtime_ns": 1791527047540713300,
+      "sha256": "a1d0498c03b0aaebff4244f29b37ecc7c89e1fc32b6ead4da50256ba79f5fab1",
+      "crc32": "E8EACD1C"
+    },
+    {
+      "path": "package.json",
+      "size": 305,
+      "mtime_ns": 1791496913743966300,
+      "sha256": "c0d3dd693cb7f823198bcb643552bbacf0f8b2b13bea0a5b9e6587bc6773fa20",
+      "crc32": "EA90D890"
+    },
+    {
+      "path": "releases\\RoyalRush-0.1.0-offline.manifest.json",
+      "size": 22425,
+      "mtime_ns": 1791502101067121000,
+      "sha256": "8dc067b1e45562ae23cafaf097c9903c85bd5c98f0cf508240ed294a27374bf3",
+      "crc32": "0E520362"
+    },
+    {
+      "path": "releases\\RoyalRush-0.1.0-offline.zip",
+      "size": 15551638,
+      "mtime_ns": 1791502100637780800,
+      "sha256": "640bb5b43591e155b52a85f62366542a779864bc6f1b083330635cf0384bad19",
+      "crc32": "468D9D75"
+    },
+    {
+      "path": "releases\\before-gameplay-fixes-20261009-093830\\README.md",
+      "size": 5417,
+      "mtime_ns": 1791526991529197100,
+      "sha256": "2f2d084a92eb45799d0e1f44a0aef7e81ff7ef8bd9e23b40141ab150bd1a30b8",
+      "crc32": "A76A7983"
+    },
+    {
+      "path": "releases\\before-gameplay-fixes-20261009-093830\\RoyalRush-studio-saved.rbxl",
+      "size": 115586,
+      "mtime_ns": 1791528110941919100,
+      "sha256": "1d09c4d7b46cbde32b5235159fa310a17fb3f8a3963662a237c638dfad447711",
+      "crc32": "EC30DC36"
+    },
+    {
+      "path": "releases\\before-gameplay-fixes-20261009-093830\\RoyalRush.rbxl",
+      "size": 70860,
+      "mtime_ns": 1791501998228246900,
+      "sha256": "b9e9916d9e38df8f1f9f5b97f558c4e0d8f668a481ef318c698a952bf05b8812",
+      "crc32": "F9BAB663"
+    },
+    {
+      "path": "releases\\before-gameplay-fixes-20261009-093830\\RoyalRush.rbxlx",
+      "size": 1236090,
+      "mtime_ns": 1791501998281921900,
+      "sha256": "e2b27fd60483793bae3b4023ba5c29b9d0fc7465a604d80b0d0c9824c0f2b0b4",
+      "crc32": "5E6A63FB"
+    },
+    {
+      "path": "releases\\before-gameplay-fixes-20261009-093830\\default.project.json",
+      "size": 1335,
+      "mtime_ns": 1791496913743966300,
+      "sha256": "9b385059e275aabbb011de88ca8e33fe4996735536f338d744e4d684c92e0cc1",
+      "crc32": "9ABF9231"
+    },
+    {
+      "path": "releases\\before-gameplay-fixes-20261009-093830\\docs\\ARAC-KAYNAKLARI.md",
+      "size": 900,
+      "mtime_ns": 1791501278951865300,
+      "sha256": "cf8cbac321e4686fc4773982a03571cfd3a08fdebc9294cdf700494788588a82",
+      "crc32": "73078305"
+    },
+    {
+      "path": "releases\\before-gameplay-fixes-20261009-093830\\docs\\CALISMA-GUNLUGU.md",
+      "size": 9432,
+      "mtime_ns": 1791527047539701800,
+      "sha256": "dff2ef83ad6509b2775363e9a36945b99f6793b08ff026726bbc1935d473a52a",
+      "crc32": "DF53CAA9"
+    },
+    {
+      "path": "releases\\before-gameplay-fixes-20261009-093830\\docs\\GELISTIRME-PLANI.md",
+      "size": 22507,
+      "mtime_ns": 1791501278959431900,
+      "sha256": "2d286ec93ef829c49965c39744f8cf51220e136b7a54526469f1a6bbde246af9",
+      "crc32": "0BA840E4"
+    },
+    {
+      "path": "releases\\before-gameplay-fixes-20261009-093830\\docs\\ROYAL-RUSH-TASARIM.md",
+      "size": 37606,
+      "mtime_ns": 1791501278959431900,
+      "sha256": "b25f2a41e544a86819c1fb6464b32c92430d0ed9abc07b3a960cce2c49147b6b",
+      "crc32": "67F0E4D9"
+    },
+    {
+      "path": "releases\\before-gameplay-fixes-20261009-093830\\docs\\STUDIO-TEST-KONTROL.md",
+      "size": 4916,
+      "mtime_ns": 1791526991531704800,
+      "sha256": "c47d5014ad59abc18183822e71df522436f6cd8f9b291f8a54bc1a8c17c0bfed",
+      "crc32": "843F5D64"
+    },
+    {
+      "path": "releases\\before-gameplay-fixes-20261009-093830\\docs\\UYGULAMA-DURUMU.md",
+      "size": 5983,
+      "mtime_ns": 1791526991530518800,
+      "sha256": "99343a28d3d997671770324caab120a501b4c5cdc116ba23b70e973afb677e06",
+      "crc32": "3BCE6FA5"
+    },
+    {
+      "path": "releases\\before-gameplay-fixes-20261009-093830\\package.json",
+      "size": 305,
+      "mtime_ns": 1791496913743966300,
+      "sha256": "c0d3dd693cb7f823198bcb643552bbacf0f8b2b13bea0a5b9e6587bc6773fa20",
+      "crc32": "EA90D890"
+    },
+    {
+      "path": "releases\\before-gameplay-fixes-20261009-093830\\scripts\\build.ps1",
+      "size": 2671,
+      "mtime_ns": 1791501642068186400,
+      "sha256": "96b189aff6a0343902cde5be543f99ef0929dcce282f43b4513cc1b5e84b0638",
+      "crc32": "BF24D305"
+    },
+    {
+      "path": "releases\\before-gameplay-fixes-20261009-093830\\scripts\\open.ps1",
+      "size": 1075,
+      "mtime_ns": 1791501108293493800,
+      "sha256": "46e8a5a417aedd9b25f8cc39132582e69abcf3146d6dc9364d197d269f701bf1",
+      "crc32": "C642F8DB"
+    },
+    {
+      "path": "releases\\before-gameplay-fixes-20261009-093830\\scripts\\package.ps1",
+      "size": 3845,
+      "mtime_ns": 1791501997544786000,
+      "sha256": "bf075cf240426e02ff6f7d72e096b71717d84afacb4ddb0f8823db0bd95628f6",
+      "crc32": "B4DD0F62"
+    },
+    {
+      "path": "releases\\before-gameplay-fixes-20261009-093830\\scripts\\test.ps1",
+      "size": 1149,
+      "mtime_ns": 1791501642067177600,
+      "sha256": "34bc813391053413b9c7fd70f3679d2f0c9a7e50bc7ffb6aff3c0955a38fb56a",
+      "crc32": "AB9C6AC9"
+    },
+    {
+      "path": "releases\\before-gameplay-fixes-20261009-093830\\src\\client\\Accessibility.luau",
+      "size": 1495,
+      "mtime_ns": 1791500097444057300,
+      "sha256": "6a70afef469bbfb9a24b4954450af77736cab0dce5df6ef2665659b8887df6e9",
+      "crc32": "9BBFB2A3"
+    },
+    {
+      "path": "releases\\before-gameplay-fixes-20261009-093830\\src\\client\\Audio.luau",
+      "size": 1891,
+      "mtime_ns": 1791500097444057300,
+      "sha256": "70abd4529bfc755120f990e14b3876f58a1c747d0e2e522b08593a14c14bbc87",
+      "crc32": "F5409784"
+    },
+    {
+      "path": "releases\\before-gameplay-fixes-20261009-093830\\src\\client\\Effects.luau",
+      "size": 2827,
+      "mtime_ns": 1791499974573459000,
+      "sha256": "5d013fd9e901cb2b8a77b11ca99c58610af986ab83281d3cbcdac854d97f124e",
+      "crc32": "B27F1DC6"
+    },
+    {
+      "path": "releases\\before-gameplay-fixes-20261009-093830\\src\\client\\Main.client.luau",
+      "size": 16447,
+      "mtime_ns": 1791501892466121700,
+      "sha256": "ddc0277f1a58f96c0b7a4234e224414dbda0a899547b25c62f540c8646016245",
+      "crc32": "54429C9B"
+    },
+    {
+      "path": "releases\\before-gameplay-fixes-20261009-093830\\src\\client\\UI.luau",
+      "size": 7651,
+      "mtime_ns": 1791501518619214600,
+      "sha256": "da35484657f1c5f551f6dba0b560cf9ce6c6573d98a2a60331a6dec8db311fc0",
+      "crc32": "9E473371"
+    },
+    {
+      "path": "releases\\before-gameplay-fixes-20261009-093830\\src\\server\\Analytics.luau",
+      "size": 592,
+      "mtime_ns": 1791498398743651200,
+      "sha256": "7ade99485f1547480680c09546efdd66004040948219f0766fdcfaf9bb162a01",
+      "crc32": "87CA3510"
+    },
+    {
+      "path": "releases\\before-gameplay-fixes-20261009-093830\\src\\server\\Bootstrap.server.luau",
+      "size": 87,
+      "mtime_ns": 1791498398743651200,
+      "sha256": "04f27d81d42e6d4292e5c2e6e2987ff916f3178d93766f978aad80e41528a337",
+      "crc32": "691998B7"
+    },
+    {
+      "path": "releases\\before-gameplay-fixes-20261009-093830\\src\\server\\ChaosService.luau",
+      "size": 7018,
+      "mtime_ns": 1791500510784423600,
+      "sha256": "7a85ea242e0ce312b0a4c2b083882cd8f009996835c9b0dfae8d71bf98173689",
+      "crc32": "6E13CAAC"
+    },
+    {
+      "path": "releases\\before-gameplay-fixes-20261009-093830\\src\\server\\CosmeticService.luau",
+      "size": 2345,
+      "mtime_ns": 1791498171347422700,
+      "sha256": "7e398aa0bbccc930048d6fd7a19f7bce8512395d2d05e33e388ba0b35c35c546",
+      "crc32": "CF729BF5"
+    },
+    {
+      "path": "releases\\before-gameplay-fixes-20261009-093830\\src\\server\\DataService.luau",
+      "size": 7163,
+      "mtime_ns": 1791501892403967200,
+      "sha256": "ae806a92441313ea62b91e17e608b27c27a8261600c179d8c1ae652dc32b0414",
+      "crc32": "E384AA32"
+    },
+    {
+      "path": "releases\\before-gameplay-fixes-20261009-093830\\src\\server\\GameService.luau",
+      "size": 28307,
+      "mtime_ns": 1791501892466121700,
+      "sha256": "d1dfac2e5120b61db8698375be2c2ac56dde1fc07776a0470bb48524103771cd",
+      "crc32": "DF8F4FD7"
+    },
+    {
+      "path": "releases\\before-gameplay-fixes-20261009-093830\\src\\server\\LobbyService.luau",
+      "size": 4551,
+      "mtime_ns": 1791499383293799800,
+      "sha256": "a11c5dde30bb14b7e34edcf18a6ad73642d586393df86bcf908f35d918043a2c",
+      "crc32": "08B40392"
+    },
+    {
+      "path": "releases\\before-gameplay-fixes-20261009-093830\\src\\server\\MapService.luau",
+      "size": 9725,
+      "mtime_ns": 1791501518620431700,
+      "sha256": "6a3f8557ac410bbc551dccafa8369ec20649c2496c339d2792af454be487992c",
+      "crc32": "7667CFA6"
+    },
+    {
+      "path": "releases\\before-gameplay-fixes-20261009-093830\\src\\server\\PowerService.luau",
+      "size": 3784,
+      "mtime_ns": 1791500510784423600,
+      "sha256": "02c120f0fb70d6308828a88603e828142b2153c05d94fa0df8c55cb9555fffd6",
+      "crc32": "40DC0133"
+    },
+    {
+      "path": "releases\\before-gameplay-fixes-20261009-093830\\src\\shared\\ChaosSelection.luau",
+      "size": 1841,
+      "mtime_ns": 1791497057894628400,
+      "sha256": "f410080e55d26f8a4aae7e9030e1c5e5c4d8f615de60da4d96fb53b9d0568295",
+      "crc32": "99363717"
+    },
+    {
+      "path": "releases\\before-gameplay-fixes-20261009-093830\\src\\shared\\Config.luau",
+      "size": 5450,
+      "mtime_ns": 1791496913743966300,
+      "sha256": "3938f22f0629351be46a98b902fc6630632d223dd12cee6d015bc779d885244e",
+      "crc32": "265177C7"
+    },
+    {
+      "path": "releases\\before-gameplay-fixes-20261009-093830\\src\\shared\\MapCatalog.luau",
+      "size": 790,
+      "mtime_ns": 1791497398192771000,
+      "sha256": "79b7199587c610ee033bf426634270531d9e85e84a56549f1232529cc4ea97c7",
+      "crc32": "CEAB6599"
+    },
+    {
+      "path": "releases\\before-gameplay-fixes-20261009-093830\\src\\shared\\MatchRules.luau",
+      "size": 1794,
+      "mtime_ns": 1791496913749298100,
+      "sha256": "a29ad30ab3dd14992141145f37af7dc88f8d620d199e0ea699fa61330375406f",
+      "crc32": "9338ADE9"
+    },
+    {
+      "path": "releases\\before-gameplay-fixes-20261009-093830\\src\\shared\\Profile.luau",
+      "size": 8332,
+      "mtime_ns": 1791497057893481700,
+      "sha256": "d17a95b5aa74a074c035c18319abda71c044ff5713c1e1b3455e26df004408da",
+      "crc32": "F092A610"
+    },
+    {
+      "path": "releases\\before-gameplay-fixes-20261009-093830\\src\\shared\\RateLimiter.luau",
+      "size": 1095,
+      "mtime_ns": 1791497057896629500,
+      "sha256": "ab062aba4fa1492560fdc4cedec64529e02fb265f4c8a222085b5cf4734f2b43",
+      "crc32": "D0B0FDF7"
+    },
+    {
+      "path": "releases\\before-gameplay-fixes-20261009-093830\\src\\shared\\RequestValidation.luau",
+      "size": 1506,
+      "mtime_ns": 1791499522601699500,
+      "sha256": "4d680cfb6aec6cacb28e3e956b5d40bc76e33d8b47581e31484cb05dfb2424ce",
+      "crc32": "05994644"
+    },
+    {
+      "path": "releases\\before-gameplay-fixes-20261009-093830\\src\\shared\\RoundModel.luau",
+      "size": 2985,
+      "mtime_ns": 1791498854033530300,
+      "sha256": "39321f8a55b5175d1219abb66d13b77c7a733bc5add2f2ad21a93f39374f71bf",
+      "crc32": "D0B72B33"
+    },
+    {
+      "path": "releases\\before-gameplay-fixes-20261009-093830\\src\\shared\\SessionStore.luau",
+      "size": 1686,
+      "mtime_ns": 1791499974564459200,
+      "sha256": "9cbe45958f31cca0792f8367aa4b99dd4539598c5f4b86f532375084b17021ac",
+      "crc32": "55C25EFF"
+    },
+    {
+      "path": "releases\\before-gameplay-fixes-20261009-093830\\src\\shared\\Strings.luau",
+      "size": 1775,
+      "mtime_ns": 1791500387481878700,
+      "sha256": "937091c6211592ea803f5ef54fcb08855d14fba6c5c7ef14cbcf31746d2d178d",
+      "crc32": "EDEF2189"
+    },
+    {
+      "path": "releases\\before-gameplay-fixes-20261009-093830\\src\\shared\\Util.luau",
+      "size": 1673,
+      "mtime_ns": 1791496913749298100,
+      "sha256": "bb26f6f17a8ed92967af6df9276d00ee0671a2cdd647cb5799dc93a4597a074e",
+      "crc32": "FCFF29C6"
+    },
+    {
+      "path": "releases\\before-gameplay-fixes-20261009-093830\\tests\\core.luau",
+      "size": 13333,
+      "mtime_ns": 1791499974575469900,
+      "sha256": "6f9824e0fb576e2c272f54258ee56b3d0d834fd7d3b084f68590b9de267b643e",
+      "crc32": "A761DD9F"
+    },
+    {
+      "path": "releases\\before-gameplay-fixes-20261009-093830\\tests\\data-service.luau",
+      "size": 6434,
+      "mtime_ns": 1791501892466121700,
+      "sha256": "a691947784990c7a01dd5b4725d4fae40d268599869e35f4ec6a3083d2d76921",
+      "crc32": "DE8B505A"
+    },
+    {
+      "path": "releases\\before-gameplay-fixes-20261009-093830\\tests\\service-contracts.luau",
+      "size": 4365,
+      "mtime_ns": 1791501642067177600,
+      "sha256": "793882a615340dd19ae46346139d38768868003b9fcd065642aae10a57bb7da1",
+      "crc32": "B3ED4272"
+    },
+    {
+      "path": "releases\\before-gameplay-fixes-20261009-093830\\tools\\MapBuilder.luau",
+      "size": 16095,
+      "mtime_ns": 1791497457582923300,
+      "sha256": "34f9f9a2de9ed721d81797601f525891605971e186be9d84fc217b1d826d6c49",
+      "crc32": "A10FE42E"
+    },
+    {
+      "path": "releases\\before-gameplay-fixes-20261009-093830\\tools\\audio.py",
+      "size": 4487,
+      "mtime_ns": 1791500510784423600,
+      "sha256": "47af3bad99cceb45286e85b310a5ab90ba23224f5672d93c7105f50ee37db4ef",
+      "crc32": "8B156B72"
+    },
+    {
+      "path": "releases\\before-gameplay-fixes-20261009-093830\\tools\\audit.luau",
+      "size": 9445,
+      "mtime_ns": 1791500179091643600,
+      "sha256": "36705cb2f541e95d875953fbac645b54747babc1dc5d98ff3228db4f5bfd97a4",
+      "crc32": "4094E153"
+    },
+    {
+      "path": "releases\\before-gameplay-fixes-20261009-093830\\tools\\generate.luau",
+      "size": 1331,
+      "mtime_ns": 1791497398192771000,
+      "sha256": "54b8b02e5eb4c6bcf1ce1ee2b44c781e37fda98acd51f2c3850bfa11690336d4",
+      "crc32": "4F8AE64B"
+    },
+    {
+      "path": "scripts\\build.ps1",
+      "size": 2672,
+      "mtime_ns": 1791528872827899700,
+      "sha256": "a5be49689e9693f62ce107d17ddf591f4a5515cac271b474e48819d613aef792",
+      "crc32": "A49D199E"
+    },
+    {
+      "path": "scripts\\open.ps1",
+      "size": 1075,
+      "mtime_ns": 1791501108293493800,
+      "sha256": "46e8a5a417aedd9b25f8cc39132582e69abcf3146d6dc9364d197d269f701bf1",
+      "crc32": "C642F8DB"
+    },
+    {
+      "path": "scripts\\package.ps1",
+      "size": 3845,
+      "mtime_ns": 1791501997544786000,
+      "sha256": "bf075cf240426e02ff6f7d72e096b71717d84afacb4ddb0f8823db0bd95628f6",
+      "crc32": "B4DD0F62"
+    },
+    {
+      "path": "scripts\\test.ps1",
+      "size": 1149,
+      "mtime_ns": 1791501642067177600,
+      "sha256": "34bc813391053413b9c7fd70f3679d2f0c9a7e50bc7ffb6aff3c0955a38fb56a",
+      "crc32": "AB9C6AC9"
+    },
+    {
+      "path": "src\\client\\Accessibility.luau",
+      "size": 1495,
+      "mtime_ns": 1791500097444057300,
+      "sha256": "6a70afef469bbfb9a24b4954450af77736cab0dce5df6ef2665659b8887df6e9",
+      "crc32": "9BBFB2A3"
+    },
+    {
+      "path": "src\\client\\Audio.luau",
+      "size": 1891,
+      "mtime_ns": 1791500097444057300,
+      "sha256": "70abd4529bfc755120f990e14b3876f58a1c747d0e2e522b08593a14c14bbc87",
+      "crc32": "F5409784"
+    },
+    {
+      "path": "src\\client\\CharacterMotion.luau",
+      "size": 2553,
+      "mtime_ns": 1791529264128780400,
+      "sha256": "e20d741dbfd887225fdb4c04ff31d6deba711bea9c60ff62c05e6b906de9854c",
+      "crc32": "EEB96DBC"
+    },
+    {
+      "path": "src\\client\\Effects.luau",
+      "size": 3325,
+      "mtime_ns": 1791529264130292100,
+      "sha256": "237352b696a0d69433e2db54d15f36280e9a54bc430eeeae4c0ab8b456a05b2e",
+      "crc32": "F42791BB"
+    },
+    {
+      "path": "src\\client\\Main.client.luau",
+      "size": 16757,
+      "mtime_ns": 1791529264128780400,
+      "sha256": "e4bb1203aed5c348e7b375e8858015452929b27f8a9650971e7d2551c27c12c8",
+      "crc32": "BFF68F63"
+    },
+    {
+      "path": "src\\client\\SurfaceMotion.luau",
+      "size": 2269,
+      "mtime_ns": 1791528561196544400,
+      "sha256": "e959507b22b9e963fa546889d0fd738fc017116b0db35740f7f8c32f70cd5cea",
+      "crc32": "6A8A5F56"
+    },
+    {
+      "path": "src\\client\\UI.luau",
+      "size": 7651,
+      "mtime_ns": 1791501518619214600,
+      "sha256": "da35484657f1c5f551f6dba0b560cf9ce6c6573d98a2a60331a6dec8db311fc0",
+      "crc32": "9E473371"
+    },
+    {
+      "path": "src\\server\\Analytics.luau",
+      "size": 592,
+      "mtime_ns": 1791498398743651200,
+      "sha256": "7ade99485f1547480680c09546efdd66004040948219f0766fdcfaf9bb162a01",
+      "crc32": "87CA3510"
+    },
+    {
+      "path": "src\\server\\Bootstrap.server.luau",
+      "size": 87,
+      "mtime_ns": 1791498398743651200,
+      "sha256": "04f27d81d42e6d4292e5c2e6e2987ff916f3178d93766f978aad80e41528a337",
+      "crc32": "691998B7"
+    },
+    {
+      "path": "src\\server\\ChaosService.luau",
+      "size": 7018,
+      "mtime_ns": 1791500510784423600,
+      "sha256": "7a85ea242e0ce312b0a4c2b083882cd8f009996835c9b0dfae8d71bf98173689",
+      "crc32": "6E13CAAC"
+    },
+    {
+      "path": "src\\server\\CosmeticService.luau",
+      "size": 2345,
+      "mtime_ns": 1791498171347422700,
+      "sha256": "7e398aa0bbccc930048d6fd7a19f7bce8512395d2d05e33e388ba0b35c35c546",
+      "crc32": "CF729BF5"
+    },
+    {
+      "path": "src\\server\\DataService.luau",
+      "size": 7163,
+      "mtime_ns": 1791501892403967200,
+      "sha256": "ae806a92441313ea62b91e17e608b27c27a8261600c179d8c1ae652dc32b0414",
+      "crc32": "E384AA32"
+    },
+    {
+      "path": "src\\server\\GameService.luau",
+      "size": 29279,
+      "mtime_ns": 1791529205405073400,
+      "sha256": "2f9bdb092a6d067843da602f49fc6993dbc41ea372198d6de510c26f0b24b68a",
+      "crc32": "6C376A04"
+    },
+    {
+      "path": "src\\server\\LobbyService.luau",
+      "size": 4551,
+      "mtime_ns": 1791499383293799800,
+      "sha256": "a11c5dde30bb14b7e34edcf18a6ad73642d586393df86bcf908f35d918043a2c",
+      "crc32": "08B40392"
+    },
+    {
+      "path": "src\\server\\MapService.luau",
+      "size": 8845,
+      "mtime_ns": 1791529170528754900,
+      "sha256": "770684259894a694ea7f13d6edf5c2e460c7130517a54cb67548b7f1a20d2837",
+      "crc32": "72A19F0E"
+    },
+    {
+      "path": "src\\server\\PowerService.luau",
+      "size": 4856,
+      "mtime_ns": 1791529170528754900,
+      "sha256": "45b8cc2bd8cb1f1b0711b9dab33108618c49a50dbccea844e6c43cf69322a8ac",
+      "crc32": "887E6C30"
+    },
+    {
+      "path": "src\\shared\\ChaosSelection.luau",
+      "size": 1841,
+      "mtime_ns": 1791497057894628400,
+      "sha256": "f410080e55d26f8a4aae7e9030e1c5e5c4d8f615de60da4d96fb53b9d0568295",
+      "crc32": "99363717"
+    },
+    {
+      "path": "src\\shared\\Config.luau",
+      "size": 5451,
+      "mtime_ns": 1791528561199547400,
+      "sha256": "ae366ba0695c7bc3c907c4382611ea51d77dc4f99552bde968ada3a97142f003",
+      "crc32": "3CDE7FFF"
+    },
+    {
+      "path": "src\\shared\\MapCatalog.luau",
+      "size": 790,
+      "mtime_ns": 1791497398192771000,
+      "sha256": "79b7199587c610ee033bf426634270531d9e85e84a56549f1232529cc4ea97c7",
+      "crc32": "CEAB6599"
+    },
+    {
+      "path": "src\\shared\\MatchRules.luau",
+      "size": 1794,
+      "mtime_ns": 1791496913749298100,
+      "sha256": "a29ad30ab3dd14992141145f37af7dc88f8d620d199e0ea699fa61330375406f",
+      "crc32": "9338ADE9"
+    },
+    {
+      "path": "src\\shared\\ObstacleMotion.luau",
+      "size": 1337,
+      "mtime_ns": 1791528561196544400,
+      "sha256": "977ceb5f1c26c44b81a3e29766a5662133359c7d576bc673f36d0d93411cbd26",
+      "crc32": "38549D2E"
+    },
+    {
+      "path": "src\\shared\\Profile.luau",
+      "size": 8332,
+      "mtime_ns": 1791497057893481700,
+      "sha256": "d17a95b5aa74a074c035c18319abda71c044ff5713c1e1b3455e26df004408da",
+      "crc32": "F092A610"
+    },
+    {
+      "path": "src\\shared\\RateLimiter.luau",
+      "size": 1095,
+      "mtime_ns": 1791497057896629500,
+      "sha256": "ab062aba4fa1492560fdc4cedec64529e02fb265f4c8a222085b5cf4734f2b43",
+      "crc32": "D0B0FDF7"
+    },
+    {
+      "path": "src\\shared\\RequestValidation.luau",
+      "size": 1506,
+      "mtime_ns": 1791499522601699500,
+      "sha256": "4d680cfb6aec6cacb28e3e956b5d40bc76e33d8b47581e31484cb05dfb2424ce",
+      "crc32": "05994644"
+    },
+    {
+      "path": "src\\shared\\RoundModel.luau",
+      "size": 2985,
+      "mtime_ns": 1791498854033530300,
+      "sha256": "39321f8a55b5175d1219abb66d13b77c7a733bc5add2f2ad21a93f39374f71bf",
+      "crc32": "D0B72B33"
+    },
+    {
+      "path": "src\\shared\\SessionStore.luau",
+      "size": 1686,
+      "mtime_ns": 1791499974564459200,
+      "sha256": "9cbe45958f31cca0792f8367aa4b99dd4539598c5f4b86f532375084b17021ac",
+      "crc32": "55C25EFF"
+    },
+    {
+      "path": "src\\shared\\Strings.luau",
+      "size": 1775,
+      "mtime_ns": 1791500387481878700,
+      "sha256": "937091c6211592ea803f5ef54fcb08855d14fba6c5c7ef14cbcf31746d2d178d",
+      "crc32": "EDEF2189"
+    },
+    {
+      "path": "src\\shared\\Util.luau",
+      "size": 1673,
+      "mtime_ns": 1791496913749298100,
+      "sha256": "bb26f6f17a8ed92967af6df9276d00ee0671a2cdd647cb5799dc93a4597a074e",
+      "crc32": "FCFF29C6"
+    },
+    {
+      "path": "tests\\core.luau",
+      "size": 13333,
+      "mtime_ns": 1791499974575469900,
+      "sha256": "6f9824e0fb576e2c272f54258ee56b3d0d834fd7d3b084f68590b9de267b643e",
+      "crc32": "A761DD9F"
+    },
+    {
+      "path": "tests\\data-service.luau",
+      "size": 6434,
+      "mtime_ns": 1791501892466121700,
+      "sha256": "a691947784990c7a01dd5b4725d4fae40d268599869e35f4ec6a3083d2d76921",
+      "crc32": "DE8B505A"
+    },
+    {
+      "path": "tests\\service-contracts.luau",
+      "size": 4978,
+      "mtime_ns": 1791529170532757600,
+      "sha256": "ff92d2cca4ab3f9901bea1e281a95bbee0980315eff66e77d486528b6087fe9c",
+      "crc32": "3AEDFB9D"
+    },
+    {
+      "path": "tools\\MapBuilder.luau",
+      "size": 17291,
+      "mtime_ns": 1791529027323537900,
+      "sha256": "7c100ad71c685ded5851578dc0485bd7d1342279cc72fe917456ab4ceb4cc95b",
+      "crc32": "C96D90BC"
+    },
+    {
+      "path": "tools\\audio.py",
+      "size": 4487,
+      "mtime_ns": 1791500510784423600,
+      "sha256": "47af3bad99cceb45286e85b310a5ab90ba23224f5672d93c7105f50ee37db4ef",
+      "crc32": "8B156B72"
+    },
+    {
+      "path": "tools\\audit.luau",
+      "size": 11677,
+      "mtime_ns": 1791529027324539200,
+      "sha256": "cc43b431dacc67e7edb7567a65630dab0a9714ac501ee1d256805a7d0aa281bc",
+      "crc32": "DB197252"
+    },
+    {
+      "path": "tools\\generate.luau",
+      "size": 1331,
+      "mtime_ns": 1791528872826899400,
+      "sha256": "74a89b0f33aa02c2995a36dabbfad146562cc0049ef0fe1a973b9b0f307492a0",
+      "crc32": "E20C4F9D"
+    },
+    {
+      "path": "tools\\install_studio.py",
+      "size": 4008,
+      "mtime_ns": 1791529205404034400,
+      "sha256": "ee5e20a7df3d20885dd3513d0249bc5f51f537be451b4fda4d5a27fd33440525",
+      "crc32": "92E96D69"
+    },
+    {
+      "path": "tools\\studio_mcp.py",
+      "size": 4410,
+      "mtime_ns": 1791528069990042300,
+      "sha256": "5516e1864ce25e92ebeb0fc9d50618651f4a07cf6841ebc050f3058217745c8d",
+      "crc32": "A9E2C439"
+    }
+  ],
+  "empty_directories": [],
+  "links": []
+}
